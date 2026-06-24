@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          different pipeline -- update 24-06-2026 -- testx
+          different pipeline -- rollback check --24-06-2026 -- testx
         </p>
         <a
           className="App-link"
