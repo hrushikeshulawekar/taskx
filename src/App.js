@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          different pipeline -- check up -- 27/06/2026
+          different pipeline -- jenkins update and prometheus -- 02/07/2026
         </p>
         <a
           className="App-link"
